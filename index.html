@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitionnal//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+	<head>
+		<title>Exp&eacute;ditions pour les projets Chronopost</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		<meta http-equiv="Content-Script-Type" content="text/javascript" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<script  type="text/javascript" src="ProjFunction.js"></script>
+		<link rel="icon" type="image/png" href="favicon.png" />
+		<link rel=stylesheet type=text/css media=screen href=style.css>
+<style>
+	div {
+	width: 100%;
+	}
+	div#top {
+		top: 0px;
+		left: 0px;
+		position: fixed;
+		display: block;
+		height=100px;
+	}
+	div#titre {
+		top: 85px;
+		left: 07px;
+		text-align: center;
+		vertical align: middle;
+		position: fixed;
+		background-color: #fff;
+		color: #ff6400;
+	}
+	div#blanc div {
+		position: absolute;
+		left: -18px;
+		top: 0px
+	}
+	div#blanc {
+		background-color: #fff;
+		position: fixed;
+		top: 85px;
+		left: 0px;
+		width: 18px;
+	}
+	div#main {
+		top:120px;
+		position: absolute;
+	}
+	.lien {
+		text-decoration: underline;
+	}
+</style>
+	</head>
+	<body onload="init('projexped.xml', 'proj-glpi.xsl', 'transform')">     <!-- Attention pour CHROME cette fonction ne marche que depuis un serveur et non depuis un fichier (donc en http:// ou https:// mais pas en file://) -->
+		<div id="main">
+			<div id="top">
+					<table border=0 cellpadding=0 cellspacing=0 align="center"  width="100%">
+					<tr>
+						<td class="titre" width="225" align="left"><img src="logo_alturing_80.png" height="84" width="225"></td>
+						<td class="titre" colspan="3" style="vertical align: middle;">
+							<h2>Exp&eacute;ditions pour les projets Chronopost</h2>
+							<form name="choix" action="" style="text-align:center">
+								<select name="tri">
+									<option value="glpi">Dossier</option>
+									<option value="env">Date d'envoi</option>
+									<option value="proj">Nom du projet</option>
+									<option value="lieu">Ville d'exp&eacute;dition</option>
+									<option value="qte">Quantit&eacute;</option>
+									<option value="ref">R&eacute;f&eacute;rence</option>
+									<option value="lib">D&eacute;signation</option>
+								</select>
+								<input type="radio" name="ordre" value="+" checked="checked" />Croissant&nbsp;
+								<input type="radio" name="ordre" value="-" />D&eacute;croissant&nbsp;
+								<input type="button" value="Afficher" onclick="formulaire(choix)" />
+							</form>
+						</td>
+						<td class="titre" width="238" align="right"><img src="chronopost.png" height="84" width="238"></td>
+					</tr>
+					<tr>
+					</tr>
+					</table>
+			</div>
+			<div id="transform">
+			</div>
+		</div>
+	</body>
+</html>

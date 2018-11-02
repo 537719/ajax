@@ -1,0 +1,2733 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<projets>
+	<article>
+		<glpi>1810080696</glpi>
+		<env>15/10/2018</env>
+		<proj>LIMEIL : Production 2 postes RDI</proj>
+		<lieu>ALFORTVILLE</lieu>
+		<qte>002</qte>
+		<ref>CHR10NP1ER</ref>
+		<lib>UC HP PRODESK 600 G3 SMALL FORM FACTOR PC WIN 10</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810080696</glpi>
+		<env>15/10/2018</env>
+		<proj>LIMEIL : Production 2 postes RDI</proj>
+		<lieu>ALFORTVILLE</lieu>
+		<qte>002</qte>
+		<ref>CHR25NP1FJ</ref>
+		<lib>ECRAN 22" HP E223</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810080696</glpi>
+		<env>15/10/2018</env>
+		<proj>LIMEIL : Production 2 postes RDI</proj>
+		<lieu>ALFORTVILLE</lieu>
+		<qte>002</qte>
+		<ref>CHR47NP1F5</ref>
+		<lib>CARTE WIFI INTEL AVEC ANTENNE EXTERNE ref 7265802.11AC PCIe X1</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810080696</glpi>
+		<env>15/10/2018</env>
+		<proj>LIMEIL : Production 2 postes RDI</proj>
+		<lieu>ALFORTVILLE</lieu>
+		<qte>002</qte>
+		<ref>CHR58NP1ET</ref>
+		<lib>BARRE DE SON HP LCD</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810080696</glpi>
+		<env>15/10/2018</env>
+		<proj>LIMEIL : Production 2 postes RDI</proj>
+		<lieu>ALFORTVILLE</lieu>
+		<qte>002</qte>
+		<ref>CHR70NP0O7</ref>
+		<lib>RALLONGE USB MF de 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810080696</glpi>
+		<env>15/10/2018</env>
+		<proj>LIMEIL : Production 2 postes RDI</proj>
+		<lieu>ALFORTVILLE</lieu>
+		<qte>002</qte>
+		<ref>CHR73NP0OA</ref>
+		<lib>CORDON SURMOULE RJ45 FTP CAT.6 DROIT 100 OHMS DE 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810080696</glpi>
+		<env>15/10/2018</env>
+		<proj>LIMEIL : Production 2 postes RDI</proj>
+		<lieu>ALFORTVILLE</lieu>
+		<qte>002</qte>
+		<ref>CHR76NP0AU</ref>
+		<lib>CORDON SVGA FERRITE DE 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810080696</glpi>
+		<env>15/10/2018</env>
+		<proj>LIMEIL : Production 2 postes RDI</proj>
+		<lieu>ALFORTVILLE</lieu>
+		<qte>004</qte>
+		<ref>CHR77NP06D</ref>
+		<lib>CABLE ALIMENTATION SECTEUR NOIR DE 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810080696</glpi>
+		<env>15/10/2018</env>
+		<proj>LIMEIL : Production 2 postes RDI</proj>
+		<lieu>ALFORTVILLE</lieu>
+		<qte>002</qte>
+		<ref>CHR91NP0JU</ref>
+		<lib>SACHET DE 4 VIS A TETE 6 PANS</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810080696</glpi>
+		<env>15/10/2018</env>
+		<proj>LIMEIL : Production 2 postes RDI</proj>
+		<lieu>ALFORTVILLE</lieu>
+		<qte>002</qte>
+		<ref>CHR92NP012</ref>
+		<lib>BLOC MULTIPRISESá6 PRISES +áIN CABLEá1,5 METRES</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810080779</glpi>
+		<env>15/10/2018</env>
+		<proj>LIMEIL : Production 4 postes PMC</proj>
+		<lieu>ALFORTVILLE</lieu>
+		<qte>004</qte>
+		<ref>CHR10NP1ER</ref>
+		<lib>UC HP PRODESK 600 G3 SMALL FORM FACTOR PC WIN 10</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810080779</glpi>
+		<env>15/10/2018</env>
+		<proj>LIMEIL : Production 4 postes PMC</proj>
+		<lieu>ALFORTVILLE</lieu>
+		<qte>004</qte>
+		<ref>CHR25NP1FJ</ref>
+		<lib>ECRAN 22" HP E223</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810080779</glpi>
+		<env>15/10/2018</env>
+		<proj>LIMEIL : Production 4 postes PMC</proj>
+		<lieu>ALFORTVILLE</lieu>
+		<qte>004</qte>
+		<ref>CHR47NP1F5</ref>
+		<lib>CARTE WIFI INTEL AVEC ANTENNE EXTERNE ref 7265802.11AC PCIe X1</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810080779</glpi>
+		<env>15/10/2018</env>
+		<proj>LIMEIL : Production 4 postes PMC</proj>
+		<lieu>ALFORTVILLE</lieu>
+		<qte>004</qte>
+		<ref>CHR58NP1ET</ref>
+		<lib>BARRE DE SON HP LCD</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810080779</glpi>
+		<env>15/10/2018</env>
+		<proj>LIMEIL : Production 4 postes PMC</proj>
+		<lieu>ALFORTVILLE</lieu>
+		<qte>004</qte>
+		<ref>CHR70NP0O7</ref>
+		<lib>RALLONGE USB MF de 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810080779</glpi>
+		<env>15/10/2018</env>
+		<proj>LIMEIL : Production 4 postes PMC</proj>
+		<lieu>ALFORTVILLE</lieu>
+		<qte>004</qte>
+		<ref>CHR73NP0OA</ref>
+		<lib>CORDON SURMOULE RJ45 FTP CAT.6 DROIT 100 OHMS DE 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810080779</glpi>
+		<env>15/10/2018</env>
+		<proj>LIMEIL : Production 4 postes PMC</proj>
+		<lieu>ALFORTVILLE</lieu>
+		<qte>004</qte>
+		<ref>CHR76NP0AU</ref>
+		<lib>CORDON SVGA FERRITE DE 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810080779</glpi>
+		<env>15/10/2018</env>
+		<proj>LIMEIL : Production 4 postes PMC</proj>
+		<lieu>ALFORTVILLE</lieu>
+		<qte>008</qte>
+		<ref>CHR77NP06D</ref>
+		<lib>CABLE ALIMENTATION SECTEUR NOIR DE 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810080779</glpi>
+		<env>15/10/2018</env>
+		<proj>LIMEIL : Production 4 postes PMC</proj>
+		<lieu>ALFORTVILLE</lieu>
+		<qte>004</qte>
+		<ref>CHR91NP0JU</ref>
+		<lib>SACHET DE 4 VIS A TETE 6 PANS</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810080779</glpi>
+		<env>15/10/2018</env>
+		<proj>LIMEIL : Production 4 postes PMC</proj>
+		<lieu>ALFORTVILLE</lieu>
+		<qte>004</qte>
+		<ref>CHR92NP012</ref>
+		<lib>BLOC MULTIPRISESá6 PRISES +áIN CABLEá1,5 METRES</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810080814</glpi>
+		<env>11/10/2018</env>
+		<proj>LIMEIL : 2 imp C11 pour RDI</proj>
+		<lieu>ALFORTVILLE</lieu>
+		<qte>002</qte>
+		<ref>CHR32NP1A2</ref>
+		<lib>IMP LEXMARK MS812DE - MONOCHROME - LASER</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810080814</glpi>
+		<env>11/10/2018</env>
+		<proj>LIMEIL : 2 imp C11 pour RDI</proj>
+		<lieu>ALFORTVILLE</lieu>
+		<qte>002</qte>
+		<ref>CHR73NP0OA</ref>
+		<lib>CORDON SURMOULE RJ45 FTP CAT.6 DROIT 100 OHMS DE 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809120669</glpi>
+		<env>13/09/2018</env>
+		<proj>AULNAY HNI câbles bleus</proj>
+		<lieu>AULNAY SOUS BOIS</lieu>
+		<qte>300</qte>
+		<ref>CHR73NP0HN</ref>
+		<lib>CORDON SURMOULE BLEU RJ45  FTP CAT6E 4P 100 OHMS DE 3M</lib>
+		<dem>BLADT JEAN</dem>
+	</article>
+	<article>
+		<glpi>1810110754</glpi>
+		<env>15/10/2018</env>
+		<proj>AULNAY HNI - divers câbles</proj>
+		<lieu>AULNAY SOUS BOIS</lieu>
+		<qte>050</qte>
+		<ref>CHR73NP0OA</ref>
+		<lib>CORDON SURMOULE RJ45 FTP CAT.6 DROIT 100 OHMS DE 5M</lib>
+		<dem>BLADT JEAN</dem>
+	</article>
+	<article>
+		<glpi>1810110754</glpi>
+		<env>15/10/2018</env>
+		<proj>AULNAY HNI - divers câbles</proj>
+		<lieu>AULNAY SOUS BOIS</lieu>
+		<qte>010</qte>
+		<ref>CHR73NP16R</ref>
+		<lib>CORDON SURMOULE  DROIT RJ45 FTP CAT.6 100 OHMS DE 10M</lib>
+		<dem>BLADT JEAN</dem>
+	</article>
+	<article>
+		<glpi>1809180285</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : Production postes PMC</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>014</qte>
+		<ref>CHR10NP1ER</ref>
+		<lib>UC HP PRODESK 600 G3 SMALL FORM FACTOR PC WIN 10</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809180285</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : Production postes PMC</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>014</qte>
+		<ref>CHR25NP1FJ</ref>
+		<lib>ECRAN 22" HP E223</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809180285</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : Production postes PMC</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>014</qte>
+		<ref>CHR47NP1F5</ref>
+		<lib>CARTE WIFI INTEL AVEC ANTENNE EXTERNE ref 7265802.11AC PCIe X1</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809180285</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : Production postes PMC</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>014</qte>
+		<ref>CHR58NP1ET</ref>
+		<lib>BARRE DE SON HP LCD</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809180285</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : Production postes PMC</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>014</qte>
+		<ref>CHR70NP0O7</ref>
+		<lib>RALLONGE USB MF de 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809180285</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : Production postes PMC</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>014</qte>
+		<ref>CHR73NP0OA</ref>
+		<lib>CORDON SURMOULE RJ45 FTP CAT.6 DROIT 100 OHMS DE 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809180285</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : Production postes PMC</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>014</qte>
+		<ref>CHR76NP0AU</ref>
+		<lib>CORDON SVGA FERRITE DE 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809180285</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : Production postes PMC</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>028</qte>
+		<ref>CHR77NP06D</ref>
+		<lib>CABLE ALIMENTATION SECTEUR NOIR DE 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809180285</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : Production postes PMC</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>014</qte>
+		<ref>CHR91NP0JU</ref>
+		<lib>SACHET DE 4 VIS A TETE 6 PANS</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809180285</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : Production postes PMC</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>014</qte>
+		<ref>CHR92NP012</ref>
+		<lib>BLOC MULTIPRISESá6 PRISES +áIN CABLEá1,5 METRES</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809180317</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : Production imp Lexmark C11</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>003</qte>
+		<ref>CHR32NP1A2</ref>
+		<lib>IMP LEXMARK MS812DE - MONOCHROME - LASER</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809180317</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : Production imp Lexmark C11</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>003</qte>
+		<ref>CHR39NP1A3</ref>
+		<lib>BAC SUPPLEMENTAIRE IMPRIMANTE LEXMARK MS812DE</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809180317</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : Production imp Lexmark C11</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>003</qte>
+		<ref>CHR73NP0OA</ref>
+		<lib>CORDON SURMOULE RJ45 FTP CAT.6 DROIT 100 OHMS DE 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809240180</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : destockage câbles et accessoires</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>120</qte>
+		<ref>CHR73NP0E5</ref>
+		<lib>CORDON SURMOULE BLEU RJ45 SFTP CAT6 4P 100 OHMS DE 2M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809240180</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : destockage câbles et accessoires</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>010</qte>
+		<ref>CHR73NP0H5</ref>
+		<lib>CORDON SURMOULE BLEU RJ45  FTP CAT6E 4P 100 OHMS DE 1M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809240180</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : destockage câbles et accessoires</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>020</qte>
+		<ref>CHR73NP0HN</ref>
+		<lib>CORDON SURMOULE BLEU RJ45  FTP CAT6E 4P 100 OHMS DE 3M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809240180</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : destockage câbles et accessoires</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>010</qte>
+		<ref>CHR73NP0OA</ref>
+		<lib>CORDON SURMOULE RJ45 FTP CAT.6 DROIT 100 OHMS DE 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809240180</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : destockage câbles et accessoires</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>020</qte>
+		<ref>CHR73NP154</ref>
+		<lib>CORDON  CAT6 DE 3M GRIS</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809240180</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : destockage câbles et accessoires</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>010</qte>
+		<ref>CHR73NP16Q</ref>
+		<lib>CORDON  CAT6 DE 2M GRIS</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809240180</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : destockage câbles et accessoires</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>002</qte>
+		<ref>CHR73NP16R</ref>
+		<lib>CORDON SURMOULE  DROIT RJ45 FTP CAT.6 100 OHMS DE 10M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809240180</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : destockage câbles et accessoires</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>004</qte>
+		<ref>CHR73NP1B0</ref>
+		<lib>CORDON SURMOULE DROIT VERT RJ45 FTP CAT.6 -100 OHMS 250 Mhz 2M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809240180</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : destockage câbles et accessoires</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>025</qte>
+		<ref>CHR73NP1B1</ref>
+		<lib>CORDON SURMOULE DROIT VIOLET RJ45 FTP CAT.6 -100 OHMS 250 Mhz 2M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809240180</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : destockage câbles et accessoires</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>005</qte>
+		<ref>CHR73NP1CD</ref>
+		<lib>CORDON SURMOULE DROIT ROUGE RJ45 FTP CAT.6 100 OHMS 250 Mhz 2M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809240180</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : destockage câbles et accessoires</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>020</qte>
+		<ref>CHR74NP196</ref>
+		<lib>JARRETIERE OPTIQUE LC/SC 50/125 MULITMODE 2 METRES- OM3</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809240180</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : destockage câbles et accessoires</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>010</qte>
+		<ref>CHR91NP0JU</ref>
+		<lib>SACHET DE 4 VIS A TETE 6 PANS</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809240180</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : destockage câbles et accessoires</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>004</qte>
+		<ref>CHR91NP1B3</ref>
+		<lib>LOT 50 VIS ECROUS ENJOLIVEURS POUR RACKAGE</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809240180</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : destockage câbles et accessoires</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>010</qte>
+		<ref>CHR92NP012</ref>
+		<lib>BLOC MULTIPRISESá6 PRISES +áIN CABLEá1,5 METRES</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809240180</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : destockage câbles et accessoires</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>001</qte>
+		<ref>CHR99NP19B</ref>
+		<lib>ROULEAU VELCRO DE 5M - LARGEUR DE 2 CM NOIR</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809240180</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : destockage câbles et accessoires</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>001</qte>
+		<ref>CHR99NP1B4</ref>
+		<lib>LIEN POUR CABLES (RISLAN TRANSLUCIDE BLANC 29 cm x 0,48 cm) X 100</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809240180</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : destockage câbles et accessoires</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>010</qte>
+		<ref>CHR99NP1B5</ref>
+		<lib>PASSE-CABLES PEIGNE</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809240221</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS CERNAY : Destockage et production de 2 serveurs agence de Reims</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>002</qte>
+		<ref>CHR48NP1BJ</ref>
+		<lib>HP DL 160 GEN9 4LFF CTO SERVEUR</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809240221</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS CERNAY : Destockage et production de 2 serveurs agence de Reims</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>010</qte>
+		<ref>CHR73NP0E5</ref>
+		<lib>CORDON SURMOULE BLEU RJ45 SFTP CAT6 4P 100 OHMS DE 2M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809240221</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS CERNAY : Destockage et production de 2 serveurs agence de Reims</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>004</qte>
+		<ref>CHR77NP14S</ref>
+		<lib>CORDON SECTEUR STANDARD NOIR</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809280569</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : Production  12 postes Bureautiques</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>012</qte>
+		<ref>CHR10NP1ER</ref>
+		<lib>UC HP PRODESK 600 G3 SMALL FORM FACTOR PC WIN 10</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809280569</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : Production  12 postes Bureautiques</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>012</qte>
+		<ref>CHR25NP1FJ</ref>
+		<lib>ECRAN 22" HP E223</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809280569</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : Production  12 postes Bureautiques</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>012</qte>
+		<ref>CHR47NP1F5</ref>
+		<lib>CARTE WIFI INTEL AVEC ANTENNE EXTERNE ref 7265802.11AC PCIe X1</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809280569</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : Production  12 postes Bureautiques</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>012</qte>
+		<ref>CHR73NP0OA</ref>
+		<lib>CORDON SURMOULE RJ45 FTP CAT.6 DROIT 100 OHMS DE 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809280604</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : Production 3 postes PMC (RDI)</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>003</qte>
+		<ref>CHR10NP1ER</ref>
+		<lib>UC HP PRODESK 600 G3 SMALL FORM FACTOR PC WIN 10</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809280604</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : Production 3 postes PMC (RDI)</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>003</qte>
+		<ref>CHR25NP1FJ</ref>
+		<lib>ECRAN 22" HP E223</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809280604</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : Production 3 postes PMC (RDI)</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>003</qte>
+		<ref>CHR47NP1F5</ref>
+		<lib>CARTE WIFI INTEL AVEC ANTENNE EXTERNE ref 7265802.11AC PCIe X1</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809280604</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : Production 3 postes PMC (RDI)</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>003</qte>
+		<ref>CHR58NP1ET</ref>
+		<lib>BARRE DE SON HP LCD</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809280604</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : Production 3 postes PMC (RDI)</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>003</qte>
+		<ref>CHR70NP0O7</ref>
+		<lib>RALLONGE USB MF de 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809280604</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : Production 3 postes PMC (RDI)</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>003</qte>
+		<ref>CHR73NP0OA</ref>
+		<lib>CORDON SURMOULE RJ45 FTP CAT.6 DROIT 100 OHMS DE 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809280604</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : Production 3 postes PMC (RDI)</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>003</qte>
+		<ref>CHR76NP0AU</ref>
+		<lib>CORDON SVGA FERRITE DE 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809280604</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : Production 3 postes PMC (RDI)</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>006</qte>
+		<ref>CHR77NP06D</ref>
+		<lib>CABLE ALIMENTATION SECTEUR NOIR DE 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809280604</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : Production 3 postes PMC (RDI)</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>003</qte>
+		<ref>CHR91NP0JU</ref>
+		<lib>SACHET DE 4 VIS A TETE 6 PANS</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809280604</glpi>
+		<env>09/10/2018</env>
+		<proj>REIMS : Production 3 postes PMC (RDI)</proj>
+		<lieu>CERNAY LES REIMS</lieu>
+		<qte>003</qte>
+		<ref>CHR92NP012</ref>
+		<lib>BLOC MULTIPRISESá6 PRISES +áIN CABLEá1,5 METRES</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810160360</glpi>
+		<env>23/10/2018</env>
+		<proj>Demande de déstockage et production de 2 x PMC LINUX _ Projet TFC 2018</proj>
+		<lieu>CRIQUEBEUF SUR SEINE </lieu>
+		<qte>002</qte>
+		<ref>CHR10NF1ER</ref>
+		<lib>UC HP PRODESK 600 G3 SMALL FORM FACTOR PC WIN 10</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1810160360</glpi>
+		<env>23/10/2018</env>
+		<proj>Demande de déstockage et production de 2 x PMC LINUX _ Projet TFC 2018</proj>
+		<lieu>CRIQUEBEUF SUR SEINE </lieu>
+		<qte>002</qte>
+		<ref>CHR47NF1F5</ref>
+		<lib> CARTE WIFI INTEL AVEC ANTENNE EXTERNE ref 7265802.11AC PCIe X1</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1810220545</glpi>
+		<env>24/10/2018</env>
+		<proj>Demande de déstockage de 1 x Poste Bureautique _ PC Sécurité non masterisé pour le supplétif de Rouen</proj>
+		<lieu>CRIQUEBEUF SUR SEINE </lieu>
+		<qte>001</qte>
+		<ref>CHR10NP1ER</ref>
+		<lib>UC HP PRODESK 600 G3 SMALL FORM FACTOR PC WIN 10</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1810220545</glpi>
+		<env>24/10/2018</env>
+		<proj>Demande de déstockage de 1 x Poste Bureautique _ PC Sécurité non masterisé pour le supplétif de Rouen</proj>
+		<lieu>CRIQUEBEUF SUR SEINE </lieu>
+		<qte>001</qte>
+		<ref>CHR25NP1FJ</ref>
+		<lib>ECRAN 22" HP E223</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1810220545</glpi>
+		<env>24/10/2018</env>
+		<proj>Demande de déstockage de 1 x Poste Bureautique _ PC Sécurité non masterisé pour le supplétif de Rouen</proj>
+		<lieu>CRIQUEBEUF SUR SEINE </lieu>
+		<qte>001</qte>
+		<ref>CHR47NP1F5</ref>
+		<lib>CARTE WIFI INTEL AVEC ANTENNE EXTERNE ref 7265802.11AC PCIe X1</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1810220545</glpi>
+		<env>24/10/2018</env>
+		<proj>Demande de déstockage de 1 x Poste Bureautique _ PC Sécurité non masterisé pour le supplétif de Rouen</proj>
+		<lieu>CRIQUEBEUF SUR SEINE </lieu>
+		<qte>001</qte>
+		<ref>CHR73NP0OA</ref>
+		<lib>CORDON SURMOULE RJ45 FTP CAT.6 DROIT 100 OHMS DE 5M</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1809270394</glpi>
+		<env>02/10/2018</env>
+		<proj>Changement PMC XP de l'agence de Décines</proj>
+		<lieu>DECINES CHARPIEU</lieu>
+		<qte>001</qte>
+		<ref>CHR10NF1ER</ref>
+		<lib>UC HP PRODESK 600 G3 SMALL FORM FACTOR PC WIN 10</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1809270394</glpi>
+		<env>02/10/2018</env>
+		<proj>Changement PMC XP de l'agence de Décines</proj>
+		<lieu>DECINES CHARPIEU</lieu>
+		<qte>001</qte>
+		<ref>CHR47NF1F5</ref>
+		<lib> CARTE WIFI INTEL AVEC ANTENNE EXTERNE ref 7265802.11AC PCIe X1</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1810080797</glpi>
+		<env>11/10/2018</env>
+		<proj>LIMEIL : Prod 2 imp TAC RDI</proj>
+		<lieu>FERRIERES EN BRIE</lieu>
+		<qte>002</qte>
+		<ref>CHR34NP18P</ref>
+		<lib>PC43D LCD USB/ETHERNET (ZPL RESEAU)</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810080797</glpi>
+		<env>11/10/2018</env>
+		<proj>LIMEIL : Prod 2 imp TAC RDI</proj>
+		<lieu>FERRIERES EN BRIE</lieu>
+		<qte>002</qte>
+		<ref>CHR41NP0BQ</ref>
+		<lib>MODULE ETHERNET POUR PC43</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810080797</glpi>
+		<env>11/10/2018</env>
+		<proj>LIMEIL : Prod 2 imp TAC RDI</proj>
+		<lieu>FERRIERES EN BRIE</lieu>
+		<qte>002</qte>
+		<ref>CHR73NP0OA</ref>
+		<lib>CORDON SURMOULE RJ45 FTP CAT.6 DROIT 100 OHMS DE 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1808280223</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Destockage et production 2 serveurs</proj>
+		<lieu>FREJUS</lieu>
+		<qte>002</qte>
+		<ref>CHR48NP1BJ</ref>
+		<lib>HP DL 160 GEN9 4LFF CTO SERVEUR</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1808280223</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Destockage et production 2 serveurs</proj>
+		<lieu>FREJUS</lieu>
+		<qte>010</qte>
+		<ref>CHR73NP0E5</ref>
+		<lib>CORDON SURMOULE BLEU RJ45 SFTP CAT6 4P 100 OHMS DE 2M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1808280223</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Destockage et production 2 serveurs</proj>
+		<lieu>FREJUS</lieu>
+		<qte>004</qte>
+		<ref>CHR77NP14S</ref>
+		<lib>CORDON SECTEUR STANDARD NOIR</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1808280282</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Production imp TAC</proj>
+		<lieu>FREJUS</lieu>
+		<qte>002</qte>
+		<ref>CHR34NP18P</ref>
+		<lib>PC43D LCD USB/ETHERNET (ZPL RESEAU)</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1808280282</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Production imp TAC</proj>
+		<lieu>FREJUS</lieu>
+		<qte>002</qte>
+		<ref>CHR41NP0BQ</ref>
+		<lib>MODULE ETHERNET POUR PC43</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1808280282</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Production imp TAC</proj>
+		<lieu>FREJUS</lieu>
+		<qte>002</qte>
+		<ref>CHR73NP154</ref>
+		<lib>CORDON  CAT6 DE 3M GRIS</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1808310239</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Destockage / Production postes Buro</proj>
+		<lieu>FREJUS</lieu>
+		<qte>004</qte>
+		<ref>CHR10NP1ER</ref>
+		<lib>UC HP PRODESK 600 G3 SMALL FORM FACTOR PC WIN 10</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1808310239</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Destockage / Production postes Buro</proj>
+		<lieu>FREJUS</lieu>
+		<qte>004</qte>
+		<ref>CHR25NP1FJ</ref>
+		<lib>ECRAN 22" HP E223</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1808310239</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Destockage / Production postes Buro</proj>
+		<lieu>FREJUS</lieu>
+		<qte>004</qte>
+		<ref>CHR47NP1F5</ref>
+		<lib>CARTE WIFI INTEL AVEC ANTENNE EXTERNE ref 7265802.11AC PCIe X1</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1808310239</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Destockage / Production postes Buro</proj>
+		<lieu>FREJUS</lieu>
+		<qte>004</qte>
+		<ref>CHR73NP0OA</ref>
+		<lib>CORDON SURMOULE RJ45 FTP CAT.6 DROIT 100 OHMS DE 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1808310269</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Destockage / Production</proj>
+		<lieu>FREJUS</lieu>
+		<qte>002</qte>
+		<ref>CHR32NP1A2</ref>
+		<lib>IMP LEXMARK MS812DE - MONOCHROME - LASER</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1808310269</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Destockage / Production</proj>
+		<lieu>FREJUS</lieu>
+		<qte>002</qte>
+		<ref>CHR39NP1A3</ref>
+		<lib>BAC SUPPLEMENTAIRE IMPRIMANTE LEXMARK MS812DE</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1808310269</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Destockage / Production</proj>
+		<lieu>FREJUS</lieu>
+		<qte>002</qte>
+		<ref>CHR73NP0OA</ref>
+		<lib>CORDON SURMOULE RJ45 FTP CAT.6 DROIT 100 OHMS DE 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1808310324</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Destockage PSM M3</proj>
+		<lieu>FREJUS</lieu>
+		<qte>005</qte>
+		<ref>CHR63NF1AD</ref>
+		<lib>M3ORA+W6,5,3 512/1GORAM/FLASH,AZERT,VGA</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1808310324</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Destockage PSM M3</proj>
+		<lieu>FREJUS</lieu>
+		<qte>001</qte>
+		<ref>CHR64NF1AE</ref>
+		<lib>SOCLE + ALIM ETHERNET 4 EMPLACEMENTS POUR PDA M3 ORANGE</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1808310341</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Destockage 1 Scanner Numérisation</proj>
+		<lieu>FREJUS</lieu>
+		<qte>001</qte>
+		<ref>CHR61NP1BT</ref>
+		<lib>SCANNER DE DOCUMENTS PANASONIC KV S5055C</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1808310378</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Destockage câbles et accessoires</proj>
+		<lieu>FREJUS</lieu>
+		<qte>040</qte>
+		<ref>CHR73NP0E5</ref>
+		<lib>CORDON SURMOULE BLEU RJ45 SFTP CAT6 4P 100 OHMS DE 2M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1808310378</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Destockage câbles et accessoires</proj>
+		<lieu>FREJUS</lieu>
+		<qte>005</qte>
+		<ref>CHR73NP0H5</ref>
+		<lib>CORDON SURMOULE BLEU RJ45  FTP CAT6E 4P 100 OHMS DE 1M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1808310378</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Destockage câbles et accessoires</proj>
+		<lieu>FREJUS</lieu>
+		<qte>005</qte>
+		<ref>CHR73NP0HN</ref>
+		<lib>CORDON SURMOULE BLEU RJ45  FTP CAT6E 4P 100 OHMS DE 3M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1808310378</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Destockage câbles et accessoires</proj>
+		<lieu>FREJUS</lieu>
+		<qte>010</qte>
+		<ref>CHR73NP0OA</ref>
+		<lib>CORDON SURMOULE RJ45 FTP CAT.6 DROIT 100 OHMS DE 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1808310378</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Destockage câbles et accessoires</proj>
+		<lieu>FREJUS</lieu>
+		<qte>010</qte>
+		<ref>CHR73NP16Q</ref>
+		<lib>CORDON  CAT6 DE 2M GRIS</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1808310378</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Destockage câbles et accessoires</proj>
+		<lieu>FREJUS</lieu>
+		<qte>001</qte>
+		<ref>CHR73NP16R</ref>
+		<lib>CORDON SURMOULE  DROIT RJ45 FTP CAT.6 100 OHMS DE 10M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1808310378</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Destockage câbles et accessoires</proj>
+		<lieu>FREJUS</lieu>
+		<qte>005</qte>
+		<ref>CHR73NP1B0</ref>
+		<lib>CORDON SURMOULE DROIT VERT RJ45 FTP CAT.6 -100 OHMS 250 Mhz 2M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1808310378</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Destockage câbles et accessoires</proj>
+		<lieu>FREJUS</lieu>
+		<qte>005</qte>
+		<ref>CHR73NP1B1</ref>
+		<lib>CORDON SURMOULE DROIT VIOLET RJ45 FTP CAT.6 -100 OHMS 250 Mhz 2M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1808310378</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Destockage câbles et accessoires</proj>
+		<lieu>FREJUS</lieu>
+		<qte>002</qte>
+		<ref>CHR73NP1CD</ref>
+		<lib>CORDON SURMOULE DROIT ROUGE RJ45 FTP CAT.6 100 OHMS 250 Mhz 2M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1808310378</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Destockage câbles et accessoires</proj>
+		<lieu>FREJUS</lieu>
+		<qte>010</qte>
+		<ref>CHR91NP0JU</ref>
+		<lib>SACHET DE 4 VIS A TETE 6 PANS</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1808310378</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Destockage câbles et accessoires</proj>
+		<lieu>FREJUS</lieu>
+		<qte>002</qte>
+		<ref>CHR91NP1B3</ref>
+		<lib>LOT 50 VIS ECROUS ENJOLIVEURS POUR RACKAGE</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1808310378</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Destockage câbles et accessoires</proj>
+		<lieu>FREJUS</lieu>
+		<qte>005</qte>
+		<ref>CHR92NP012</ref>
+		<lib>BLOC MULTIPRISESá6 PRISES +áIN CABLEá1,5 METRES</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1808310378</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Destockage câbles et accessoires</proj>
+		<lieu>FREJUS</lieu>
+		<qte>001</qte>
+		<ref>CHR99NP1B4</ref>
+		<lib>LIEN POUR CABLES (RISLAN TRANSLUCIDE BLANC 29 cm x 0,48 cm) X 100</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1808310378</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Destockage câbles et accessoires</proj>
+		<lieu>FREJUS</lieu>
+		<qte>006</qte>
+		<ref>CHR99NP1B5</ref>
+		<lib>PASSE-CABLES PEIGNE</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809060331</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Destockage / Production postes Buro</proj>
+		<lieu>FREJUS</lieu>
+		<qte>002</qte>
+		<ref>CHR10NP1ER</ref>
+		<lib>UC HP PRODESK 600 G3 SMALL FORM FACTOR PC WIN 10</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809060331</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Destockage / Production postes Buro</proj>
+		<lieu>FREJUS</lieu>
+		<qte>002</qte>
+		<ref>CHR25NP1FJ</ref>
+		<lib>ECRAN 22" HP E223</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809060331</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Destockage / Production postes Buro</proj>
+		<lieu>FREJUS</lieu>
+		<qte>002</qte>
+		<ref>CHR47NP1F5</ref>
+		<lib>CARTE WIFI INTEL AVEC ANTENNE EXTERNE ref 7265802.11AC PCIe X1</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809060331</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Destockage / Production postes Buro</proj>
+		<lieu>FREJUS</lieu>
+		<qte>002</qte>
+		<ref>CHR73NP0OA</ref>
+		<lib>CORDON SURMOULE RJ45 FTP CAT.6 DROIT 100 OHMS DE 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809120539</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Production un poste PMC</proj>
+		<lieu>FREJUS</lieu>
+		<qte>001</qte>
+		<ref>CHR10NP1ER</ref>
+		<lib>UC HP PRODESK 600 G3 SMALL FORM FACTOR PC WIN 10</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809120539</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Production un poste PMC</proj>
+		<lieu>FREJUS</lieu>
+		<qte>001</qte>
+		<ref>CHR25NP1FJ</ref>
+		<lib>ECRAN 22" HP E223</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809120539</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Production un poste PMC</proj>
+		<lieu>FREJUS</lieu>
+		<qte>001</qte>
+		<ref>CHR47NP1F5</ref>
+		<lib>CARTE WIFI INTEL AVEC ANTENNE EXTERNE ref 7265802.11AC PCIe X1</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809120539</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Production un poste PMC</proj>
+		<lieu>FREJUS</lieu>
+		<qte>001</qte>
+		<ref>CHR58NP1ET</ref>
+		<lib>BARRE DE SON HP LCD</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809120539</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Production un poste PMC</proj>
+		<lieu>FREJUS</lieu>
+		<qte>001</qte>
+		<ref>CHR70NP0O7</ref>
+		<lib>RALLONGE USB MF de 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809120539</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Production un poste PMC</proj>
+		<lieu>FREJUS</lieu>
+		<qte>001</qte>
+		<ref>CHR73NP0OA</ref>
+		<lib>CORDON SURMOULE RJ45 FTP CAT.6 DROIT 100 OHMS DE 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809120539</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Production un poste PMC</proj>
+		<lieu>FREJUS</lieu>
+		<qte>001</qte>
+		<ref>CHR76NP0AU</ref>
+		<lib>CORDON SVGA FERRITE DE 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809120539</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Production un poste PMC</proj>
+		<lieu>FREJUS</lieu>
+		<qte>002</qte>
+		<ref>CHR77NP06D</ref>
+		<lib>CABLE ALIMENTATION SECTEUR NOIR DE 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809120539</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Production un poste PMC</proj>
+		<lieu>FREJUS</lieu>
+		<qte>001</qte>
+		<ref>CHR91NP0JU</ref>
+		<lib>SACHET DE 4 VIS A TETE 6 PANS</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809120539</glpi>
+		<env>14/09/2018</env>
+		<proj>PUGET : Production un poste PMC</proj>
+		<lieu>FREJUS</lieu>
+		<qte>001</qte>
+		<ref>CHR92NP012</ref>
+		<lib>BLOC MULTIPRISESá6 PRISES +áIN CABLEá1,5 METRES</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809170309</glpi>
+		<env>19/09/2018</env>
+		<proj>PUGET : Production un poste PMC (pour Fast)</proj>
+		<lieu>FREJUS</lieu>
+		<qte>001</qte>
+		<ref>CHR10NP1ER</ref>
+		<lib>UC HP PRODESK 600 G3 SMALL FORM FACTOR PC WIN 10</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809170309</glpi>
+		<env>19/09/2018</env>
+		<proj>PUGET : Production un poste PMC (pour Fast)</proj>
+		<lieu>FREJUS</lieu>
+		<qte>001</qte>
+		<ref>CHR47NP1F5</ref>
+		<lib>CARTE WIFI INTEL AVEC ANTENNE EXTERNE ref 7265802.11AC PCIe X1</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1807270307</glpi>
+		<env>02/08/2018</env>
+		<proj>PUGET : Destockage Infras réseau</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>002</qte>
+		<ref>CHR41NP1CI</ref>
+		<lib>CISCO 1000 BASE SX SFP TRANSCEIVER MODULE</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1807270307</glpi>
+		<env>02/08/2018</env>
+		<proj>PUGET : Destockage Infras réseau</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>002</qte>
+		<ref>CHR43NP1DW</ref>
+		<lib>Switch Catalyst 2960-X 48 GigE PoE 30W, 4 x 1G SFP, LAN</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809030283</glpi>
+		<env>04/09/2018</env>
+		<proj>REIMS : Destockage des infras</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>012</qte>
+		<ref>CHR41NP199</ref>
+		<lib>OPTIONAL CISCO FLEXSTACK</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809030283</glpi>
+		<env>04/09/2018</env>
+		<proj>REIMS : Destockage des infras</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>012</qte>
+		<ref>CHR41NP1CI</ref>
+		<lib>CISCO 1000 BASE SX SFP TRANSCEIVER MODULE</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809030283</glpi>
+		<env>04/09/2018</env>
+		<proj>REIMS : Destockage des infras</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>010</qte>
+		<ref>CHR43NP1AU</ref>
+		<lib>SWITCH CATALYST 2960-X 24PS-L LAN Base</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809030283</glpi>
+		<env>04/09/2018</env>
+		<proj>REIMS : Destockage des infras</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>002</qte>
+		<ref>CHR43NP1DW</ref>
+		<lib>Switch Catalyst 2960-X 48 GigE PoE 30W, 4 x 1G SFP, LAN</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809030283</glpi>
+		<env>04/09/2018</env>
+		<proj>REIMS : Destockage des infras</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>002</qte>
+		<ref>CHR45NP19G</ref>
+		<lib>FORTIGATE 100D 10/100/1000 WAN PORT 16GO</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809030283</glpi>
+		<env>04/09/2018</env>
+		<proj>REIMS : Destockage des infras</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>014</qte>
+		<ref>CHR74NP196</ref>
+		<lib>JARRETIERE OPTIQUE LC/SC 50/125 MULITMODE 2 METRES- OM3</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809100377</glpi>
+		<env>11/09/2018</env>
+		<proj>LE MANS - Destockage de 50 peignes</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>050</qte>
+		<ref>CHR99NP1B5</ref>
+		<lib>PASSE-CABLES PEIGNE</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1809110155</glpi>
+		<env>12/09/2018</env>
+		<proj>Demande de déstockage Bornes wifi réseaux _ Annecy _ Projet Généralisation contrôleur Wifi</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>004</qte>
+		<ref>CHR41NP1E4</ref>
+		<lib>Borne Wifi CISCO ref AP1852E</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1809110155</glpi>
+		<env>12/09/2018</env>
+		<proj>Demande de déstockage Bornes wifi réseaux _ Annecy _ Projet Généralisation contrôleur Wifi</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>016</qte>
+		<ref>CHR47NP19I</ref>
+		<lib>ANTENNE DUAL BAND DIPOLE RP-TNC</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1809110248</glpi>
+		<env>17/09/2018</env>
+		<proj>Demande de déstockage et production de 1 x PMC filaire _ Projet TFC 2018</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>001</qte>
+		<ref>CHR10NP1ER</ref>
+		<lib>UC HP PRODESK 600 G3 SMALL FORM FACTOR PC WIN 10</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1809110248</glpi>
+		<env>17/09/2018</env>
+		<proj>Demande de déstockage et production de 1 x PMC filaire _ Projet TFC 2018</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>001</qte>
+		<ref>CHR25NP1FJ</ref>
+		<lib>ECRAN 22" HP E223</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1809110248</glpi>
+		<env>17/09/2018</env>
+		<proj>Demande de déstockage et production de 1 x PMC filaire _ Projet TFC 2018</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>001</qte>
+		<ref>CHR47NP1F5</ref>
+		<lib>CARTE WIFI INTEL AVEC ANTENNE EXTERNE ref 7265802.11AC PCIe X1</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1809110248</glpi>
+		<env>17/09/2018</env>
+		<proj>Demande de déstockage et production de 1 x PMC filaire _ Projet TFC 2018</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>001</qte>
+		<ref>CHR58NP1ET</ref>
+		<lib>BARRE DE SON HP LCD</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1809110248</glpi>
+		<env>17/09/2018</env>
+		<proj>Demande de déstockage et production de 1 x PMC filaire _ Projet TFC 2018</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>001</qte>
+		<ref>CHR70NP0O7</ref>
+		<lib>RALLONGE USB MF de 5M</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1809110248</glpi>
+		<env>17/09/2018</env>
+		<proj>Demande de déstockage et production de 1 x PMC filaire _ Projet TFC 2018</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>001</qte>
+		<ref>CHR73NP0OA</ref>
+		<lib>CORDON SURMOULE RJ45 FTP CAT.6 DROIT 100 OHMS DE 5M</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1809110248</glpi>
+		<env>17/09/2018</env>
+		<proj>Demande de déstockage et production de 1 x PMC filaire _ Projet TFC 2018</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>001</qte>
+		<ref>CHR76NP0AU</ref>
+		<lib>CORDON SVGA FERRITE DE 5M</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1809110248</glpi>
+		<env>17/09/2018</env>
+		<proj>Demande de déstockage et production de 1 x PMC filaire _ Projet TFC 2018</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>002</qte>
+		<ref>CHR77NP06D</ref>
+		<lib>CABLE ALIMENTATION SECTEUR NOIR DE 5M</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1809110248</glpi>
+		<env>17/09/2018</env>
+		<proj>Demande de déstockage et production de 1 x PMC filaire _ Projet TFC 2018</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>001</qte>
+		<ref>CHR91NP0JU</ref>
+		<lib>SACHET DE 4 VIS A TETE 6 PANS</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1809110248</glpi>
+		<env>17/09/2018</env>
+		<proj>Demande de déstockage et production de 1 x PMC filaire _ Projet TFC 2018</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>001</qte>
+		<ref>CHR92NP012</ref>
+		<lib>BLOC MULTIPRISESá6 PRISES +áIN CABLEá1,5 METRES</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1809270495</glpi>
+		<env>28/09/2018</env>
+		<proj>PUGET : Configuration Borne Wifi</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>001</qte>
+		<ref>CHR41NP1E4</ref>
+		<lib>Borne Wifi CISCO ref AP1852E</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809270495</glpi>
+		<env>28/09/2018</env>
+		<proj>PUGET : Configuration Borne Wifi</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>004</qte>
+		<ref>CHR47NP19I</ref>
+		<lib>ANTENNE DUAL BAND DIPOLE RP-TNC</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810180681</glpi>
+		<env>19/10/2018</env>
+		<proj>Demande de déstockage de 10x FORTIGATE 60E _ Projet Temps Fort Colis 2018</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>010</qte>
+		<ref>CHR45NF1G9</ref>
+		<lib>FORTIGATE 60E</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1810220610</glpi>
+		<env>24/10/2018</env>
+		<proj>Demande de déstockage et production de 1 x PMC LINUX _ Projet TFC 2018</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>001</qte>
+		<ref>CHR10NF1ER</ref>
+		<lib>UC HP PRODESK 600 G3 SMALL FORM FACTOR PC WIN 10</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1810220610</glpi>
+		<env>24/10/2018</env>
+		<proj>Demande de déstockage et production de 1 x PMC LINUX _ Projet TFC 2018</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>001</qte>
+		<ref>CHR47NF1F5</ref>
+		<lib> CARTE WIFI INTEL AVEC ANTENNE EXTERNE ref 7265802.11AC PCIe X1</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1809110227</glpi>
+		<env>18/09/2018</env>
+		<proj>Changement PMC XP de l'agence d'Annecy</proj>
+		<lieu>LA BALME DE SILLINGY</lieu>
+		<qte>007</qte>
+		<ref>CHR10NP1ER</ref>
+		<lib>UC HP PRODESK 600 G3 SMALL FORM FACTOR PC WIN 10</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1809110227</glpi>
+		<env>18/09/2018</env>
+		<proj>Changement PMC XP de l'agence d'Annecy</proj>
+		<lieu>LA BALME DE SILLINGY</lieu>
+		<qte>007</qte>
+		<ref>CHR47NP1F5</ref>
+		<lib>CARTE WIFI INTEL AVEC ANTENNE EXTERNE ref 7265802.11AC PCIe X1</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1809110354</glpi>
+		<env>12/09/2018</env>
+		<proj>Annecy - 7 câbles USB2 pour PM43c</proj>
+		<lieu>LA BALME DE SILLINGY</lieu>
+		<qte>007</qte>
+		<ref>CHR70NP1EF</ref>
+		<lib>Uniformatic cÔble USB 2 m pour PM43C</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1810020689</glpi>
+		<env>05/10/2018</env>
+		<proj>LILLE - Pilote PMC Linux - destockage de 2 uc pmc</proj>
+		<lieu>LILLE</lieu>
+		<qte>002</qte>
+		<ref>CHR10NP1ER</ref>
+		<lib>UC HP PRODESK 600 G3 SMALL FORM FACTOR PC WIN 10</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1810020689</glpi>
+		<env>05/10/2018</env>
+		<proj>LILLE - Pilote PMC Linux - destockage de 2 uc pmc</proj>
+		<lieu>LILLE</lieu>
+		<qte>002</qte>
+		<ref>CHR47NP1F5</ref>
+		<lib>CARTE WIFI INTEL AVEC ANTENNE EXTERNE ref 7265802.11AC PCIe X1</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1807310443</glpi>
+		<env>01/08/2018</env>
+		<proj>Demande de déstockage Divers cartons accessoires : Projet Agence de Grange Noire</proj>
+		<lieu>MARIGNANE FRANCE</lieu>
+		<qte>019</qte>
+		<ref>CHR99NP1A1</ref>
+		<lib>CARTON 55x55x50 DC - CAD24A</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1808200126</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 08 PC bureautique - Lot CRESA</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>008</qte>
+		<ref>CHR10NP1ER</ref>
+		<lib>UC HP PRODESK 600 G3 SMALL FORM FACTOR PC WIN 10</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200126</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 08 PC bureautique - Lot CRESA</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>008</qte>
+		<ref>CHR25NP1FJ</ref>
+		<lib>ECRAN 22" HP E223</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200126</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 08 PC bureautique - Lot CRESA</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>008</qte>
+		<ref>CHR47NP1F5</ref>
+		<lib>CARTE WIFI INTEL AVEC ANTENNE EXTERNE ref 7265802.11AC PCIe X1</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200126</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 08 PC bureautique - Lot CRESA</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>008</qte>
+		<ref>CHR73NP0OA</ref>
+		<lib>CORDON SURMOULE RJ45 FTP CAT.6 DROIT 100 OHMS DE 5M</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200133</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 30 PC bureautique - Lot AGENCE/HUB</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>030</qte>
+		<ref>CHR10NP1ER</ref>
+		<lib>UC HP PRODESK 600 G3 SMALL FORM FACTOR PC WIN 10</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200133</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 30 PC bureautique - Lot AGENCE/HUB</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>030</qte>
+		<ref>CHR25NP1FJ</ref>
+		<lib>ECRAN 22" HP E223</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200133</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 30 PC bureautique - Lot AGENCE/HUB</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>030</qte>
+		<ref>CHR47NP1F5</ref>
+		<lib>CARTE WIFI INTEL AVEC ANTENNE EXTERNE ref 7265802.11AC PCIe X1</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200133</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 30 PC bureautique - Lot AGENCE/HUB</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>030</qte>
+		<ref>CHR73NP0OA</ref>
+		<lib>CORDON SURMOULE RJ45 FTP CAT.6 DROIT 100 OHMS DE 5M</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200152</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 22 PMC W10</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>022</qte>
+		<ref>CHR10NP1ER</ref>
+		<lib>UC HP PRODESK 600 G3 SMALL FORM FACTOR PC WIN 10</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200152</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 22 PMC W10</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>022</qte>
+		<ref>CHR25NP1FJ</ref>
+		<lib>ECRAN 22" HP E223</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200152</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 22 PMC W10</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>022</qte>
+		<ref>CHR47NP1F5</ref>
+		<lib>CARTE WIFI INTEL AVEC ANTENNE EXTERNE ref 7265802.11AC PCIe X1</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200152</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 22 PMC W10</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>022</qte>
+		<ref>CHR58NP1ET</ref>
+		<lib>BARRE DE SON HP LCD</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200152</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 22 PMC W10</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>022</qte>
+		<ref>CHR70NP0O7</ref>
+		<lib>RALLONGE USB MF de 5M</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200152</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 22 PMC W10</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>022</qte>
+		<ref>CHR73NP0OA</ref>
+		<lib>CORDON SURMOULE RJ45 FTP CAT.6 DROIT 100 OHMS DE 5M</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200152</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 22 PMC W10</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>022</qte>
+		<ref>CHR76NP0AU</ref>
+		<lib>CORDON SVGA FERRITE DE 5M</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200152</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 22 PMC W10</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>044</qte>
+		<ref>CHR77NP06D</ref>
+		<lib>CABLE ALIMENTATION SECTEUR NOIR DE 5M</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200152</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 22 PMC W10</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>022</qte>
+		<ref>CHR91NP0JU</ref>
+		<lib>SACHET DE 4 VIS A TETE 6 PANS</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200152</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 22 PMC W10</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>022</qte>
+		<ref>CHR92NP012</ref>
+		<lib>BLOC MULTIPRISESá6 PRISES +áIN CABLEá1,5 METRES</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200171</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 3 PC PUMA - Lot HUB/AGENCE</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>003</qte>
+		<ref>CHR10NP1ER</ref>
+		<lib>UC HP PRODESK 600 G3 SMALL FORM FACTOR PC WIN 10</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200171</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 3 PC PUMA - Lot HUB/AGENCE</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>003</qte>
+		<ref>CHR25NP1FJ</ref>
+		<lib>ECRAN 22" HP E223</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200171</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 3 PC PUMA - Lot HUB/AGENCE</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>003</qte>
+		<ref>CHR47NP1F5</ref>
+		<lib>CARTE WIFI INTEL AVEC ANTENNE EXTERNE ref 7265802.11AC PCIe X1</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200171</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 3 PC PUMA - Lot HUB/AGENCE</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>003</qte>
+		<ref>CHR58NP1ET</ref>
+		<lib>BARRE DE SON HP LCD</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200171</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 3 PC PUMA - Lot HUB/AGENCE</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>003</qte>
+		<ref>CHR70NP0O7</ref>
+		<lib>RALLONGE USB MF de 5M</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200171</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 3 PC PUMA - Lot HUB/AGENCE</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>003</qte>
+		<ref>CHR73NP0OA</ref>
+		<lib>CORDON SURMOULE RJ45 FTP CAT.6 DROIT 100 OHMS DE 5M</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200171</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 3 PC PUMA - Lot HUB/AGENCE</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>003</qte>
+		<ref>CHR76NP0AU</ref>
+		<lib>CORDON SVGA FERRITE DE 5M</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200171</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 3 PC PUMA - Lot HUB/AGENCE</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>006</qte>
+		<ref>CHR77NP06D</ref>
+		<lib>CABLE ALIMENTATION SECTEUR NOIR DE 5M</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200171</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 3 PC PUMA - Lot HUB/AGENCE</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>003</qte>
+		<ref>CHR91NP0JU</ref>
+		<lib>SACHET DE 4 VIS A TETE 6 PANS</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200171</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 3 PC PUMA - Lot HUB/AGENCE</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>003</qte>
+		<ref>CHR92NP012</ref>
+		<lib>BLOC MULTIPRISESá6 PRISES +áIN CABLEá1,5 METRES</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200185</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 12 C11 - Lot HUB/AGENCE</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>012</qte>
+		<ref>CHR32NP1A2</ref>
+		<lib>IMP LEXMARK MS812DE - MONOCHROME - LASER</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200185</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 12 C11 - Lot HUB/AGENCE</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>012</qte>
+		<ref>CHR39NP1A3</ref>
+		<lib>BAC SUPPLEMENTAIRE IMPRIMANTE LEXMARK MS812DE</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200185</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 12 C11 - Lot HUB/AGENCE</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>012</qte>
+		<ref>CHR73NP0OA</ref>
+		<lib>CORDON SURMOULE RJ45 FTP CAT.6 DROIT 100 OHMS DE 5M</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200192</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 14 Imprimante TAC - Lot HUB/Agence LE MANS</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>014</qte>
+		<ref>CHR34NP18P</ref>
+		<lib>PC43D LCD USB/ETHERNET (ZPL RESEAU)</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200192</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 14 Imprimante TAC - Lot HUB/Agence LE MANS</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>014</qte>
+		<ref>CHR41NP0BQ</ref>
+		<lib>MODULE ETHERNET POUR PC43</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200192</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 14 Imprimante TAC - Lot HUB/Agence LE MANS</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>014</qte>
+		<ref>CHR73NP154</ref>
+		<lib>CORDON  CAT6 DE 3M GRIS</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200231</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 1 Scanner de numérisation- Lot HUB/AGENCE</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>001</qte>
+		<ref>CHR61NP1BT</ref>
+		<lib>SCANNER DE DOCUMENTS PANASONIC KV S5055C</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200237</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 1 PC Numérisation C11 - Lot HUB/AGENCE</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>001</qte>
+		<ref>CHR10NP1ER</ref>
+		<lib>UC HP PRODESK 600 G3 SMALL FORM FACTOR PC WIN 10</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200237</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 1 PC Numérisation C11 - Lot HUB/AGENCE</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>001</qte>
+		<ref>CHR25NP1FJ</ref>
+		<lib>ECRAN 22" HP E223</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200237</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 1 PC Numérisation C11 - Lot HUB/AGENCE</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>001</qte>
+		<ref>CHR47NP1F5</ref>
+		<lib>CARTE WIFI INTEL AVEC ANTENNE EXTERNE ref 7265802.11AC PCIe X1</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200237</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 1 PC Numérisation C11 - Lot HUB/AGENCE</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>001</qte>
+		<ref>CHR73NP0OA</ref>
+		<lib>CORDON SURMOULE RJ45 FTP CAT.6 DROIT 100 OHMS DE 5M</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200259</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 8 écrans- Lot HUB/AGENCE</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>008</qte>
+		<ref>CHR25NP1FJ</ref>
+		<lib>ECRAN 22" HP E223</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200327</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 2 Serveurs- Lot HUB/AGENCE</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>002</qte>
+		<ref>CHR48NP1BJ</ref>
+		<lib>HP DL 160 GEN9 4LFF CTO SERVEUR</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200327</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 2 Serveurs- Lot HUB/AGENCE</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>010</qte>
+		<ref>CHR73NP0E5</ref>
+		<lib>CORDON SURMOULE BLEU RJ45 SFTP CAT6 4P 100 OHMS DE 2M</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808200327</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 2 Serveurs- Lot HUB/AGENCE</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>004</qte>
+		<ref>CHR77NP14S</ref>
+		<lib>CORDON SECTEUR STANDARD NOIR</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808220054</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 4 écrans 22" - Lot CRESA</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>004</qte>
+		<ref>CHR25NP1FJ</ref>
+		<lib>ECRAN 22" HP E223</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808270339</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage Câblage</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>150</qte>
+		<ref>CHR73NP0E5</ref>
+		<lib>CORDON SURMOULE BLEU RJ45 SFTP CAT6 4P 100 OHMS DE 2M</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808270339</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage Câblage</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>010</qte>
+		<ref>CHR73NP1B0</ref>
+		<lib>CORDON SURMOULE DROIT VERT RJ45 FTP CAT.6 -100 OHMS 250 Mhz 2M</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808270339</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage Câblage</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>014</qte>
+		<ref>CHR73NP1B1</ref>
+		<lib>CORDON SURMOULE DROIT VIOLET RJ45 FTP CAT.6 -100 OHMS 250 Mhz 2M</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808270339</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage Câblage</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>004</qte>
+		<ref>CHR73NP1CD</ref>
+		<lib>CORDON SURMOULE DROIT ROUGE RJ45 FTP CAT.6 100 OHMS 250 Mhz 2M</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808270339</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage Câblage</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>022</qte>
+		<ref>CHR74NP196</ref>
+		<lib>JARRETIERE OPTIQUE LC/SC 50/125 MULITMODE 2 METRES- OM3</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808270386</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 1 PC - W10 pour la surêté</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>001</qte>
+		<ref>CHR10NP1ER</ref>
+		<lib>UC HP PRODESK 600 G3 SMALL FORM FACTOR PC WIN 10</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808270386</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 1 PC - W10 pour la surêté</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>001</qte>
+		<ref>CHR25NP1FJ</ref>
+		<lib>ECRAN 22" HP E223</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808270386</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 1 PC - W10 pour la surêté</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>001</qte>
+		<ref>CHR47NP1F5</ref>
+		<lib>CARTE WIFI INTEL AVEC ANTENNE EXTERNE ref 7265802.11AC PCIe X1</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1808270386</glpi>
+		<env>06/09/2018</env>
+		<proj>HUB LE MANS  - Destockage de 1 PC - W10 pour la surêté</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>001</qte>
+		<ref>CHR73NP0OA</ref>
+		<lib>CORDON SURMOULE RJ45 FTP CAT.6 DROIT 100 OHMS DE 5M</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1810180460</glpi>
+		<env>23/10/2018</env>
+		<proj>HUB LE MANS  - Destockage de 02 Embases PSM M3 + 04 PSM m3</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>004</qte>
+		<ref>CHR63RF1AD</ref>
+		<lib>M3ORA+W6,5,3 512/1GORAM/FLASH,AZERT,VGA RECYCLE</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1810180460</glpi>
+		<env>23/10/2018</env>
+		<proj>HUB LE MANS  - Destockage de 02 Embases PSM M3 + 04 PSM m3</proj>
+		<lieu>NEUVILLE SUR SARTHE</lieu>
+		<qte>001</qte>
+		<ref>CHR64NF1AE</ref>
+		<lib>SOCLE + ALIM ETHERNET 4 EMPLACEMENTS POUR PDA M3 ORANGE</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1809270517</glpi>
+		<env>02/10/2018</env>
+		<proj>Changement PMC XP de l'agence de Nimes</proj>
+		<lieu>NIMES</lieu>
+		<qte>001</qte>
+		<ref>CHR10NF1ER</ref>
+		<lib>UC HP PRODESK 600 G3 SMALL FORM FACTOR PC WIN 10</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1809270517</glpi>
+		<env>02/10/2018</env>
+		<proj>Changement PMC XP de l'agence de Nimes</proj>
+		<lieu>NIMES</lieu>
+		<qte>001</qte>
+		<ref>CHR47NF1F5</ref>
+		<lib> CARTE WIFI INTEL AVEC ANTENNE EXTERNE ref 7265802.11AC PCIe X1</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1810190272</glpi>
+		<env>24/10/2018</env>
+		<proj>Demande de déstockage et production de 1 x PMC LINUX _ Projet TFC 2018</proj>
+		<lieu>PORTES LES VALENCE</lieu>
+		<qte>001</qte>
+		<ref>CHR10NF1ER</ref>
+		<lib>UC HP PRODESK 600 G3 SMALL FORM FACTOR PC WIN 10</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1810190272</glpi>
+		<env>24/10/2018</env>
+		<proj>Demande de déstockage et production de 1 x PMC LINUX _ Projet TFC 2018</proj>
+		<lieu>PORTES LES VALENCE</lieu>
+		<qte>001</qte>
+		<ref>CHR47NF1F5</ref>
+		<lib> CARTE WIFI INTEL AVEC ANTENNE EXTERNE ref 7265802.11AC PCIe X1</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1808280307</glpi>
+		<env>18/09/2018</env>
+		<proj>REIMS CERNAY : Production imprimante TAC</proj>
+		<lieu>REIMS</lieu>
+		<qte>009</qte>
+		<ref>CHR34NP18P</ref>
+		<lib>PC43D LCD USB/ETHERNET (ZPL RESEAU)</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1808280307</glpi>
+		<env>18/09/2018</env>
+		<proj>REIMS CERNAY : Production imprimante TAC</proj>
+		<lieu>REIMS</lieu>
+		<qte>009</qte>
+		<ref>CHR41NP0BQ</ref>
+		<lib>MODULE ETHERNET POUR PC43</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1808280307</glpi>
+		<env>18/09/2018</env>
+		<proj>REIMS CERNAY : Production imprimante TAC</proj>
+		<lieu>REIMS</lieu>
+		<qte>009</qte>
+		<ref>CHR73NP154</ref>
+		<lib>CORDON  CAT6 DE 3M GRIS</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810160192</glpi>
+		<env>19/10/2018</env>
+		<proj>REIMS : Production 3 postes PMC supp</proj>
+		<lieu>REIMS</lieu>
+		<qte>003</qte>
+		<ref>CHR10NP1ER</ref>
+		<lib>UC HP PRODESK 600 G3 SMALL FORM FACTOR PC WIN 10</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810160192</glpi>
+		<env>19/10/2018</env>
+		<proj>REIMS : Production 3 postes PMC supp</proj>
+		<lieu>REIMS</lieu>
+		<qte>003</qte>
+		<ref>CHR25NP1FJ</ref>
+		<lib>ECRAN 22" HP E223</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810160192</glpi>
+		<env>19/10/2018</env>
+		<proj>REIMS : Production 3 postes PMC supp</proj>
+		<lieu>REIMS</lieu>
+		<qte>003</qte>
+		<ref>CHR47NP1F5</ref>
+		<lib>CARTE WIFI INTEL AVEC ANTENNE EXTERNE ref 7265802.11AC PCIe X1</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810160192</glpi>
+		<env>19/10/2018</env>
+		<proj>REIMS : Production 3 postes PMC supp</proj>
+		<lieu>REIMS</lieu>
+		<qte>003</qte>
+		<ref>CHR58NP1ET</ref>
+		<lib>BARRE DE SON HP LCD</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810160192</glpi>
+		<env>19/10/2018</env>
+		<proj>REIMS : Production 3 postes PMC supp</proj>
+		<lieu>REIMS</lieu>
+		<qte>003</qte>
+		<ref>CHR70NP0O7</ref>
+		<lib>RALLONGE USB MF de 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810160192</glpi>
+		<env>19/10/2018</env>
+		<proj>REIMS : Production 3 postes PMC supp</proj>
+		<lieu>REIMS</lieu>
+		<qte>003</qte>
+		<ref>CHR73NP0OA</ref>
+		<lib>CORDON SURMOULE RJ45 FTP CAT.6 DROIT 100 OHMS DE 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810160192</glpi>
+		<env>19/10/2018</env>
+		<proj>REIMS : Production 3 postes PMC supp</proj>
+		<lieu>REIMS</lieu>
+		<qte>003</qte>
+		<ref>CHR76NP0AU</ref>
+		<lib>CORDON SVGA FERRITE DE 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810160192</glpi>
+		<env>19/10/2018</env>
+		<proj>REIMS : Production 3 postes PMC supp</proj>
+		<lieu>REIMS</lieu>
+		<qte>006</qte>
+		<ref>CHR77NP06D</ref>
+		<lib>CABLE ALIMENTATION SECTEUR NOIR DE 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810160192</glpi>
+		<env>19/10/2018</env>
+		<proj>REIMS : Production 3 postes PMC supp</proj>
+		<lieu>REIMS</lieu>
+		<qte>003</qte>
+		<ref>CHR91NP0JU</ref>
+		<lib>SACHET DE 4 VIS A TETE 6 PANS</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810160192</glpi>
+		<env>19/10/2018</env>
+		<proj>REIMS : Production 3 postes PMC supp</proj>
+		<lieu>REIMS</lieu>
+		<qte>003</qte>
+		<ref>CHR92NP012</ref>
+		<lib>BLOC MULTIPRISESá6 PRISES +áIN CABLEá1,5 METRES</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810150652</glpi>
+		<env>17/10/2018</env>
+		<proj>QUIMPER : Production d'une config Food</proj>
+		<lieu>SAINT EVARZEC</lieu>
+		<qte>001</qte>
+		<ref>CHR10NP1ER</ref>
+		<lib>UC HP PRODESK 600 G3 SMALL FORM FACTOR PC WIN 10</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810150652</glpi>
+		<env>17/10/2018</env>
+		<proj>QUIMPER : Production d'une config Food</proj>
+		<lieu>SAINT EVARZEC</lieu>
+		<qte>001</qte>
+		<ref>CHR25NP1FJ</ref>
+		<lib>ECRAN 22" HP E223</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810150652</glpi>
+		<env>17/10/2018</env>
+		<proj>QUIMPER : Production d'une config Food</proj>
+		<lieu>SAINT EVARZEC</lieu>
+		<qte>001</qte>
+		<ref>CHR47NP1F5</ref>
+		<lib>CARTE WIFI INTEL AVEC ANTENNE EXTERNE ref 7265802.11AC PCIe X1</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810150652</glpi>
+		<env>17/10/2018</env>
+		<proj>QUIMPER : Production d'une config Food</proj>
+		<lieu>SAINT EVARZEC</lieu>
+		<qte>001</qte>
+		<ref>CHR58NP1ET</ref>
+		<lib>BARRE DE SON HP LCD</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810150652</glpi>
+		<env>17/10/2018</env>
+		<proj>QUIMPER : Production d'une config Food</proj>
+		<lieu>SAINT EVARZEC</lieu>
+		<qte>001</qte>
+		<ref>CHR70NP0O7</ref>
+		<lib>RALLONGE USB MF de 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810150652</glpi>
+		<env>17/10/2018</env>
+		<proj>QUIMPER : Production d'une config Food</proj>
+		<lieu>SAINT EVARZEC</lieu>
+		<qte>001</qte>
+		<ref>CHR73NP0OA</ref>
+		<lib>CORDON SURMOULE RJ45 FTP CAT.6 DROIT 100 OHMS DE 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810150652</glpi>
+		<env>17/10/2018</env>
+		<proj>QUIMPER : Production d'une config Food</proj>
+		<lieu>SAINT EVARZEC</lieu>
+		<qte>001</qte>
+		<ref>CHR76NP0AU</ref>
+		<lib>CORDON SVGA FERRITE DE 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810150652</glpi>
+		<env>17/10/2018</env>
+		<proj>QUIMPER : Production d'une config Food</proj>
+		<lieu>SAINT EVARZEC</lieu>
+		<qte>002</qte>
+		<ref>CHR77NP06D</ref>
+		<lib>CABLE ALIMENTATION SECTEUR NOIR DE 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810150652</glpi>
+		<env>17/10/2018</env>
+		<proj>QUIMPER : Production d'une config Food</proj>
+		<lieu>SAINT EVARZEC</lieu>
+		<qte>001</qte>
+		<ref>CHR91NP0JU</ref>
+		<lib>SACHET DE 4 VIS A TETE 6 PANS</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810150652</glpi>
+		<env>17/10/2018</env>
+		<proj>QUIMPER : Production d'une config Food</proj>
+		<lieu>SAINT EVARZEC</lieu>
+		<qte>001</qte>
+		<ref>CHR92NP012</ref>
+		<lib>BLOC MULTIPRISESá6 PRISES +áIN CABLEá1,5 METRES</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810150683</glpi>
+		<env>17/10/2018</env>
+		<proj>QUIMPER : Production une imp TAC (config Food)</proj>
+		<lieu>SAINT EVARZEC</lieu>
+		<qte>001</qte>
+		<ref>CHR34NP18P</ref>
+		<lib>PC43D LCD USB/ETHERNET (ZPL RESEAU)</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810150683</glpi>
+		<env>17/10/2018</env>
+		<proj>QUIMPER : Production une imp TAC (config Food)</proj>
+		<lieu>SAINT EVARZEC</lieu>
+		<qte>001</qte>
+		<ref>CHR41NP0BQ</ref>
+		<lib>MODULE ETHERNET POUR PC43</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810150683</glpi>
+		<env>17/10/2018</env>
+		<proj>QUIMPER : Production une imp TAC (config Food)</proj>
+		<lieu>SAINT EVARZEC</lieu>
+		<qte>001</qte>
+		<ref>CHR73NP154</ref>
+		<lib>CORDON  CAT6 DE 3M GRIS</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810150697</glpi>
+		<env>17/10/2018</env>
+		<proj>QUIMPER : Production une imp C11 Fast</proj>
+		<lieu>SAINT EVARZEC</lieu>
+		<qte>001</qte>
+		<ref>CHR32NP1A2</ref>
+		<lib>IMP LEXMARK MS812DE - MONOCHROME - LASER</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810150697</glpi>
+		<env>17/10/2018</env>
+		<proj>QUIMPER : Production une imp C11 Fast</proj>
+		<lieu>SAINT EVARZEC</lieu>
+		<qte>001</qte>
+		<ref>CHR73NP0OA</ref>
+		<lib>CORDON SURMOULE RJ45 FTP CAT.6 DROIT 100 OHMS DE 5M</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810150703</glpi>
+		<env>17/10/2018</env>
+		<proj>QUIMPER : Destockage PSM M3</proj>
+		<lieu>SAINT EVARZEC</lieu>
+		<qte>003</qte>
+		<ref>CHR63NF1AD</ref>
+		<lib>M3ORA+W6,5,3 512/1GORAM/FLASH,AZERT,VGA</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1810150703</glpi>
+		<env>17/10/2018</env>
+		<proj>QUIMPER : Destockage PSM M3</proj>
+		<lieu>SAINT EVARZEC</lieu>
+		<qte>001</qte>
+		<ref>CHR64NF1AE</ref>
+		<lib>SOCLE + ALIM ETHERNET 4 EMPLACEMENTS POUR PDA M3 ORANGE</lib>
+		<dem>ROBIN BRUNO</dem>
+	</article>
+	<article>
+		<glpi>1809270535</glpi>
+		<env>02/10/2018</env>
+		<proj>Changement PMC XP de l'agence de Dax</proj>
+		<lieu>SAINT GEOURS DE MARENNE</lieu>
+		<qte>002</qte>
+		<ref>CHR10NF1ER</ref>
+		<lib>UC HP PRODESK 600 G3 SMALL FORM FACTOR PC WIN 10</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1809270535</glpi>
+		<env>02/10/2018</env>
+		<proj>Changement PMC XP de l'agence de Dax</proj>
+		<lieu>SAINT GEOURS DE MARENNE</lieu>
+		<qte>002</qte>
+		<ref>CHR47NF1F5</ref>
+		<lib> CARTE WIFI INTEL AVEC ANTENNE EXTERNE ref 7265802.11AC PCIe X1</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1810100368</glpi>
+		<env>15/10/2018</env>
+		<proj>Demande de déstockage et production de 1 x PMC LINUX _ Projet TFC 2018</proj>
+		<lieu>SAINT GEOURS DE MARENNE</lieu>
+		<qte>001</qte>
+		<ref>CHR10NPSTT</ref>
+		<lib>UC CHR DELOC PRELOADEE</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1809270411</glpi>
+		<env>02/10/2018</env>
+		<proj>Changement PMC XP de l'agence de Troyes</proj>
+		<lieu>SAINTE SAVINE</lieu>
+		<qte>001</qte>
+		<ref>CHR10NF1ER</ref>
+		<lib>UC HP PRODESK 600 G3 SMALL FORM FACTOR PC WIN 10</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1809270411</glpi>
+		<env>02/10/2018</env>
+		<proj>Changement PMC XP de l'agence de Troyes</proj>
+		<lieu>SAINTE SAVINE</lieu>
+		<qte>001</qte>
+		<ref>CHR47NF1F5</ref>
+		<lib> CARTE WIFI INTEL AVEC ANTENNE EXTERNE ref 7265802.11AC PCIe X1</lib>
+		<dem>MARTINI PATRICK</dem>
+	</article>
+	<article>
+		<glpi>1810100376</glpi>
+		<env>15/10/2018</env>
+		<proj>Demande de déstockage et production de 1 x PMC LINUX _ Projet TFC 2018</proj>
+		<lieu>SORGUES FRANCE</lieu>
+		<qte>001</qte>
+		<ref>CHR10NPSTT</ref>
+		<lib>UC CHR DELOC PRELOADEE</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1810100356</glpi>
+		<env>15/10/2018</env>
+		<proj>Demande de déstockage et production de 1 x PMC LINUX _ Projet TFC 2018</proj>
+		<lieu>VEUREY VOROIZE</lieu>
+		<qte>001</qte>
+		<ref>CHR10NPSTT</ref>
+		<lib>UC CHR DELOC PRELOADEE</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1810290472</glpi>
+		<env>__/__/__</env>
+		<proj>Demande de déstockage de FORTIGATE FWF-60 E _ Projet Temps Fort Colis 2018</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>010</qte>
+		<ref>CHR45NF1G9</ref>
+		<lib>FORTIGATE FWF-60 E</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1810290472</glpi>
+		<env>__/__/__</env>
+		<proj>Demande de déstockage de FORTIGATE FWF-60 E _ Projet Temps Fort Colis 2018</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>010</qte>
+		<ref>CHR45NF1G9</ref>
+		<lib>FORTIGATE FWF-60 E</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1810290472</glpi>
+		<env>__/__/__</env>
+		<proj>Demande de déstockage de FORTIGATE FWF-60 E _ Projet Temps Fort Colis 2018</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>010</qte>
+		<ref>CHR45NF1G9</ref>
+		<lib>FORTIGATE FWF-60 E</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1810290472</glpi>
+		<env>__/__/__</env>
+		<proj>Demande de déstockage de FORTIGATE FWF-60 E _ Projet Temps Fort Colis 2018</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>010</qte>
+		<ref>CHR45NF1G9</ref>
+		<lib>FORTIGATE FWF-60 E</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1810290472</glpi>
+		<env>__/__/__</env>
+		<proj>Demande de déstockage de FORTIGATE FWF-60 E _ Projet Temps Fort Colis 2018</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>010</qte>
+		<ref>CHR45NF1G9</ref>
+		<lib>FORTIGATE FWF-60 E</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1810290472</glpi>
+		<env>__/__/__</env>
+		<proj>Demande de déstockage de FORTIGATE FWF-60 E _ Projet Temps Fort Colis 2018</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>010</qte>
+		<ref>CHR45NF1G9</ref>
+		<lib>FORTIGATE FWF-60 E</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1810290472</glpi>
+		<env>__/__/__</env>
+		<proj>Demande de déstockage de FORTIGATE FWF-60 E _ Projet Temps Fort Colis 2018</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>010</qte>
+		<ref>CHR45NF1G9</ref>
+		<lib>FORTIGATE FWF-60 E</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1810290472</glpi>
+		<env>__/__/__</env>
+		<proj>Demande de déstockage de FORTIGATE FWF-60 E _ Projet Temps Fort Colis 2018</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>010</qte>
+		<ref>CHR45NF1G9</ref>
+		<lib>FORTIGATE FWF-60 E</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1810290472</glpi>
+		<env>__/__/__</env>
+		<proj>Demande de déstockage de FORTIGATE FWF-60 E _ Projet Temps Fort Colis 2018</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>010</qte>
+		<ref>CHR45NF1G9</ref>
+		<lib>FORTIGATE FWF-60 E</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1810290472</glpi>
+		<env>__/__/__</env>
+		<proj>Demande de déstockage de FORTIGATE FWF-60 E _ Projet Temps Fort Colis 2018</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>010</qte>
+		<ref>CHR45NF1G9</ref>
+		<lib>FORTIGATE FWF-60 E</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1810290472</glpi>
+		<env>__/__/__</env>
+		<proj>Demande de déstockage de FORTIGATE FWF-60 E _ Projet Temps Fort Colis 2018</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>010</qte>
+		<ref>CHR45NF1G9</ref>
+		<lib>FORTIGATE FWF-60 E</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1810290472</glpi>
+		<env>__/__/__</env>
+		<proj>Demande de déstockage de FORTIGATE FWF-60 E _ Projet Temps Fort Colis 2018</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>010</qte>
+		<ref>CHR45NF1G9</ref>
+		<lib>FORTIGATE FWF-60 E</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1810290472</glpi>
+		<env>__/__/__</env>
+		<proj>Demande de déstockage de FORTIGATE FWF-60 E _ Projet Temps Fort Colis 2018</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>010</qte>
+		<ref>CHR45NF1G9</ref>
+		<lib>FORTIGATE FWF-60 E</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1810290472</glpi>
+		<env>__/__/__</env>
+		<proj>Demande de déstockage de FORTIGATE FWF-60 E _ Projet Temps Fort Colis 2018</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>010</qte>
+		<ref>CHR45NF1G9</ref>
+		<lib>FORTIGATE FWF-60 E</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1810290472</glpi>
+		<env>__/__/__</env>
+		<proj>Demande de déstockage de FORTIGATE FWF-60 E _ Projet Temps Fort Colis 2018</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>010</qte>
+		<ref>CHR45NF1G9</ref>
+		<lib>FORTIGATE FWF-60 E</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+	<article>
+		<glpi>1810290472</glpi>
+		<env>__/__/__</env>
+		<proj>Demande de déstockage de FORTIGATE FWF-60 E _ Projet Temps Fort Colis 2018</proj>
+		<lieu>GENTILLY</lieu>
+		<qte>010</qte>
+		<ref>CHR45NF1G9</ref>
+		<lib>FORTIGATE FWF-60 E</lib>
+		<dem>SZPAKOWSKI THIERRY</dem>
+	</article>
+</projets>
