@@ -3,13 +3,13 @@
 	<xsl:template match="/">
 		<html>
 			<head>
-				<title>Expéditions pour les projets Chronopost - Tri par référence décroissante</title>
+				<title>Expéditions pour les projets Chronopost - Tri par nom de demandeur croissant</title>
 			</head>
 			<body>
 					<div id="titre">
 				<table border="3"  cellspacing="4" cellpadding="2" align="center">
 					<caption align="center">
-						Tri par référence décroissante
+						Tri par nom de demandeur croissant
 					</caption>
 					<colgroup>
 						<col style="width:80px"  />
@@ -45,7 +45,7 @@
 						<col style="width:120px"  />
 					</colgroup>
 					<xsl:for-each select="projets/article">
-					<xsl:sort select="ref" order="descending" />
+					<xsl:sort select="dem" order="ascending" />
 						<tr>
 							<xsl:if test="position() mod 2 != 1">
 								<xsl:attribute name="class">pair

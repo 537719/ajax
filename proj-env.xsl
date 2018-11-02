@@ -9,7 +9,7 @@
 					<div id="titre">
 				<table border="3"  cellspacing="4" cellpadding="2" align="center">
 					<caption align="center">
-						Tri par date d'envoi décroissante
+						Tri par date d'envoi croissante
 					</caption>
 					<colgroup>
 						<col style="width:80px"  />
@@ -19,6 +19,7 @@
 						<col style="width:10px"  />
 						<col style="width:80px"  />
 						<col style="width:240px"  />
+						<col style="width:120px"  />
 					</colgroup>
 					<tr>
 						<th id="glpi" abbr="glpi">Dossier</th>
@@ -28,6 +29,7 @@
 						<th id="qte">Qté</th>
 						<th id="ref" abbr="ref">Référence</th>
 						<th id="lib" abbr="lib">Désignation</th>
+						<th id="dem" abbr="dem">Demandeur</th>
 					</tr>
 					</table>
 					</div>
@@ -40,6 +42,7 @@
 						<col style="width:10px"  />
 						<col style="width:80px"  />
 						<col style="width:240px"  />
+						<col style="width:120px"  />
 					</colgroup>
 					<xsl:for-each select="projets/article">
 					<xsl:sort select="env" order="descending" />
@@ -66,6 +69,7 @@
 							<td class="char"><xsl:value-of select="qte"/></td>
 							<td><xsl:value-of select="ref"/></td>
 							<td><xsl:value-of select="lib"/></td>
+							<td><xsl:value-of select="dem"/></td>
 
 						</tr>
 					</xsl:for-each>
